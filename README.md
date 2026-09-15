@@ -23,18 +23,6 @@ Every page — Dashboard, Alerts, Incidents, Log Explorer, MITRE ATT&CK, Endpoin
 
 ---
 
-## Screenshots
-
-| | |
-|---|---|
-| ![Upload / Ingest Logs](screenshot/upload_logs.png) **Upload / Ingest Logs** — attach a log file and the parser normalizes + detects in one step. | ![Alerts](screenshot/alerts.png) **Alerts** — view, prioritize, and investigate security alerts by severity and detection type. |
-| ![Incident Management](screenshot/incidents.png) **Incident Management** — escalate an alert into a tracked incident with notes. | ![Log Explorer](screenshot/log_explorer.png) **Log Explorer** — filter and search every normalized event from your uploads. |
-| ![MITRE ATT&CK](screenshot/mitre_attack.png) **MITRE ATT&CK Coverage** — identify which ATT&CK techniques your uploaded activity maps to. | ![Endpoint Monitoring](screenshot/endpoint_monitoring.png) **Endpoint Monitoring** — view hosts discovered from uploaded logs and their alert activity. |
-| ![Network Monitoring](screenshot/network_monitoring.png) **Network Monitoring** — analyze source/destination IP and port activity. | ![Detection Rules](screenshot/detection_rules.png) **Detection Rules** — view the detection rules evaluated by the SOC detection engine. |
-| ![Reports](screenshot/reports.png) **Reports** — view alert, incident, and upload statistics with CSV export. | ![Audit Log](screenshot/audit_log.png) **Audit Log** — track ingest and analyst actions with timestamps and results. |
-
-----
-
 ## Installation (Windows)
 
 ### 1. Install Python
