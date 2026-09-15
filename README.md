@@ -27,13 +27,13 @@ Every page — Dashboard, Alerts, Incidents, Log Explorer, MITRE ATT&CK, Endpoin
 
 | | |
 |---|---|
-| ![Upload / Ingest Logs](screenshot/upload.png) **Upload / Ingest Logs** — attach a log file and the parser normalizes + detects in one step. | ![Alert Investigation](screenshot/alert.png) **Alert Investigation** — severity, MITRE technique, host, and supporting evidence for each alert. |
+| ![Upload / Ingest Logs](screenshot/upload_logs.png) **Upload / Ingest Logs** — attach a log file and the parser normalizes + detects in one step. | ![Alerts](screenshot/alerts.png) **Alerts** — view, prioritize, and investigate security alerts by severity and detection type. |
 | ![Incident Management](screenshot/incidents.png) **Incident Management** — escalate an alert into a tracked incident with notes. | ![Log Explorer](screenshot/log_explorer.png) **Log Explorer** — filter and search every normalized event from your uploads. |
-| ![MITRE ATT&CK Coverage](screenshot/mitre_attck.png) **MITRE ATT&CK Coverage** — which techniques your uploaded activity maps to. | ![Endpoint Monitoring](screenshot/endpoint_monitoring.png) **Endpoint Monitoring** — hosts discovered from uploaded logs, with live alert counts. |
-| ![Network Monitoring](screenshot/network_monitoring.png) **Network Monitoring** — source/destination IP and port activity. | ![Detection Rules](screenshot/detection_rules.png) **Detection Rules** — the reference rule set the engine evaluates against. |
-| ![Reports](screenshot/reports.png) **Reports** — alert/incident/upload counts with CSV export. | ![Audit Log](screenshot/audit_log.png) **Audit Log** — every ingest and analyst action, with a timestamp and result. |
+| ![MITRE ATT&CK](screenshot/mitre_attack.png) **MITRE ATT&CK Coverage** — identify which ATT&CK techniques your uploaded activity maps to. | ![Endpoint Monitoring](screenshot/endpoint_monitoring.png) **Endpoint Monitoring** — view hosts discovered from uploaded logs and their alert activity. |
+| ![Network Monitoring](screenshot/network_monitoring.png) **Network Monitoring** — analyze source/destination IP and port activity. | ![Detection Rules](screenshot/detection_rules.png) **Detection Rules** — view the detection rules evaluated by the SOC detection engine. |
+| ![Reports](screenshot/reports.png) **Reports** — view alert, incident, and upload statistics with CSV export. | ![Audit Log](screenshot/audit_log.png) **Audit Log** — track ingest and analyst actions with timestamps and results. |
 
----
+----
 
 ## Installation (Windows)
 
