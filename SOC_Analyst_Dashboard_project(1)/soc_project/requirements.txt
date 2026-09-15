@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+bcrypt>=4.1
+requests>=2.31
+pywin32>=306; sys_platform == 'win32'
