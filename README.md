@@ -38,7 +38,7 @@ If that fails, install Python from [python.org](https://www.python.org/) first (
 Clone it if it's on GitHub:
 
 ```powershell
-git clone https://github.com/yourname/soc-analyst-dashboard.git
+https://github.com/artist198/soc_analyst_dashboard.git
 cd soc-analyst-dashboard
 ```
 
