@@ -23,17 +23,7 @@ Every page — Dashboard, Alerts, Incidents, Log Explorer, MITRE ATT&CK, Endpoin
 
 ---
 
-## Screenshots
 
-| | |
-|---|---|
-| ![Upload / Ingest Logs](screenshots/01-upload-ingest-logs.png) **Upload / Ingest Logs** — attach a log file and the parser normalizes + detects in one step. | ![Alert Investigation](screenshots/02-alert-investigation.png) **Alert Investigation** — severity, MITRE technique, host, and supporting evidence for each alert. |
-| ![Incident Management](screenshots/03-incident-management.png) **Incident Management** — escalate an alert into a tracked incident with notes. | ![Log Explorer](screenshots/04-log-explorer.png) **Log Explorer** — filter and search every normalized event from your uploads. |
-| ![MITRE ATT&CK Coverage](screenshots/05-mitre-attck-coverage.png) **MITRE ATT&CK Coverage** — which techniques your uploaded activity maps to. | ![Endpoint Monitoring](screenshots/06-endpoint-monitoring.png) **Endpoint Monitoring** — hosts discovered from uploaded logs, with live alert counts. |
-| ![Network Monitoring](screenshots/07-network-monitoring.png) **Network Monitoring** — source/destination IP and port activity. | ![Detection Rules](screenshots/08-detection-rules.png) **Detection Rules** — the reference rule set the engine evaluates against. |
-| ![Reports](screenshots/09-reports.png) **Reports** — alert/incident/upload counts with CSV export. | ![Audit Log](screenshots/10-audit-log.png) **Audit Log** — every ingest and analyst action, with a timestamp and result. |
-
----
 
 ## Installation (Windows)
 
