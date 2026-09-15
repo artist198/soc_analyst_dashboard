@@ -40,11 +40,11 @@ If that fails, install Python from [python.org](https://www.python.org/) first (
 Clone it if it's on GitHub:
 
 ```powershell
-git clone https://github.com/yourname/soc-analyst-dashboard.git
-cd soc-analyst-dashboard
+https://github.com/artist198/soc_analyst_dashboard.git
+cd soc_project
 ```
 
-...or just `cd` into the extracted `soc_fixed` folder if you downloaded a zip.
+...or just `cd` into the extracted `soc_fixed` folder if you downloaded .
 
 ### 3. Create and activate a virtual environment
 
